@@ -9,7 +9,8 @@ C programming including:
   * Mutex locks
   * Semaphores
 
-Assignment 1
+# Assignment 1
+
 Task 1: Shell Interface
 
     Design a C program for a shell interface.
@@ -43,7 +44,8 @@ Task 3: Factorial Calculation
     Child process prints factorial series.
     Sum up the series and display the result.
 
-Assignment 2
+# Assignment 2
+
 Task 1: TA Office Hour Simulation
 
     Use POSIX threads, mutex locks, and semaphores.
