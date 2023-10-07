@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug/*
+valgrind-out.txt
+*.pdf
+*.xopp
+*.odt
